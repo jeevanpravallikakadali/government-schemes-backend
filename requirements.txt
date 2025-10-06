@@ -1,4 +1,5 @@
-fastapi==0.104.1
+fastapi==0.111.0
+pydantic==2.7.1
 uvicorn==0.24.0
 motor==3.3.2
 python-dotenv==1.0.0
@@ -9,5 +10,4 @@ bcrypt==4.1.2
 # emergentintegrations  # Comment out for external hosting - only available on Emergent platform
 openai>=1.99.5  # Alternative AI integration for external hosting
 aiofiles==23.2.1
-pydantic==2.5.2
 starlette==0.27.0
